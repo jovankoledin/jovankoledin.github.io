@@ -71,7 +71,7 @@ four transistors with the other two transistors being access transistors that se
 operations. We can write/read to a SRAM memory cell by setting the Row and Column Address wires. 
 
 So now that we know how multiplexers and SRAM work we can understand how the LUT works. It is used to read specific bits of data from the SRAM using 
-the 8 different multiplexers and the input (A, B, C)wires to perform a logic operation. For example if we wanted to create a LUT that returned a 1
+the 8 different multiplexers and the input (A, B, C) wires to perform a logic operation. For example if we wanted to create a LUT that returned a 1
 when the C line was high and the A and B lines were low we would simply have to write a 1 to the 4 index in our SRAM using the column and row address
 lines in Figure 5. Now that we understand the LUTs and Mux’s it is time to move on to another component in our logic block from figure 2, the Full 
 Adder (FA).
@@ -85,7 +85,7 @@ Figure 6. Full Adder Truth Table [6]
 The logic behind a full adder is shown in Figure 6 (above…) It consists of three inputs pins with the C - IN denoting a carry signal that could be 
 from a previous adder if there are multiple chained together. The reason FPGAs have a dedicated FA circuit and dont just use more complex LUTs to
 accomplish the adder logic is due to the commonality of the adding operation and increased speed you can gain by creating a hard FA block a opposed
-to relying on a slower and more spatially intensive memory lookup method like a LUT.Full Adders are very simple components that are also built
+to relying on a slower and more spatially intensive memory lookup method like a LUT. Full Adders are very simple components that are also built
 using a combination of transistors as shown in Figure 7. 
 
 ![Alt text](/images/FPGA/Figure7.png)  
@@ -104,17 +104,16 @@ Now it is time to discuss the final component in our logic blocks, the D-Flip-Fl
 in Figure 8 (above!). Simply, when the clk pin is high the Q pin is set to whatever D value is present. When the clk pin is low Q holds its state.
 D-Flip-Flops act as a storage component, as shown in the first two elements in the truth table maintaining whatever value Q was previously set to 
 (effectively storing the previous D value). What are the D Flip flops purpose in the logic blocks in our FPGA? As you may be able to guess they act 
-as a mini memory storage block that allow us to store state and data information between clock cycles. By combining multiple D flip-flopswith logic
-gates from our LUTs you can create more intricate sequential circuits like counters shift registers, and state machines within your FPGA. 
+as a mini memory storage block that allow us to store state and data information between clock cycles. By combining multiple D flip-flops with logic
+gates from our LUTs you can create more intricate sequential circuits like counters, shift registers, and state machines within your FPGA. 
 
 
 ### Interconnection Resources
 
-We started this post by looking at the diagram in Figure 1 and getting a fundamental understanding of the Logic Blocks that are present throughout
-our FPGA and how they are programmed by the user. But we still have the other crucial part of our basic FPGA, the interconnection resources. These 
-interconnects in our FPGAs are essentially built using many different wires that are running between all of the logic blocks in our FPGA. When we 
-want to connect any two specific logic blocks, for example to implement higher bit adders, we tell the switch block to close the connection between 
-those two LBs that we want to chain together. 
+We started this post by looking at the diagram in Figure 1 and getting a fundamental understanding of the elements in our Logic Blocks.
+But we still have the other crucial part of our basic FPGA, the interconnection resources. These interconnects in our FPGAs are essentially built   
+using many different wires and switch boxes that run between all of the logic blocks in our FPGA. If we want to connect any two specific logic blocks,  
+for example to implement a 2 bit adder, we tell the switch block to close the connection between those two LBs that we want to chain together. 
 
 ![Alt text](/images/FPGA/Figure9.png)  
 Figure 9. FPGA programmable interconnect diagram [1]
