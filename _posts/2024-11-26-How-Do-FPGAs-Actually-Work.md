@@ -16,8 +16,8 @@ To answer my earlier question, yes, FPGAs are made up of millions or billions+ o
 like TSMC can take a digital design for a chip and etch the huge number of transistors onto a silicon wafer and package the 
 silicon wafers into the tiny chips we see on our circuit boards. Transistors are essentially little On/Off switches and when 
 combined together can make any type of logic, think adders, multipliers, storage elements, or even switch boxes. Ok, so now
-we know that we can create different types of logic elements such as adders, multipliers, storage elements, and switch boxes
-using transistors let's take a closer look at an example FPGA architecture to see how these elements come together:
+we know that we can create different types of logic elements using transistors let's take a closer look at an example   
+architecture to see how these elements come together to make a FPGA:
 
 ![Alt text](/images/FPGA/Figure1.png)  
 Figure 1. Generic FPGA architecture [1]
