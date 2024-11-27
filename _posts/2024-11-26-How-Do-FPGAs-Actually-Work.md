@@ -122,7 +122,7 @@ In the figure (9) above we can see how the switch matrix is at the center of man
 the different CLB/LBs together. The switch box/matrix is realized by using small transistors controlled by configuration data stored in the FPGA's
 internal memory (SRAM), enabling flexible routing between different logic elements depending on the specific circuit you want to implement. You can
 think of the switch matrix as being very similar to a LUT, but instead of the SRAM data going to the inputs of the Mux’s, we instead hook up the 
-SRAM bits to the Set pins on our Mux’s and hook up the input and output pins of our Mux’s to different CLB within our FPGA.
+SRAM bits to the Set pins on our Mux’s and hook up the input and output pins of our Mux’s to different CLBs within our FPGA.
 
 ### Conclusion
 
