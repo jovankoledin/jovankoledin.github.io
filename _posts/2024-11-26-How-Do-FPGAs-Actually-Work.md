@@ -35,8 +35,8 @@ Figure 2. Simplified logic block/cell example [2]
 In Figure 2 (above again :])we can see a more detailed view of a simplified logic block (LB), logic cell (LC) is the same thing, 
 as well as a configurable logic block (CLB), or logic element (LE) depending on the naming convention. Inside this LB there are usually
 four key components that we will discuss more here, the ‘3-LUT’ which is a three input Look-Up-Table, the ‘FA’ which is a Full-Adder,
-the ‘mux’ which is a multiplexer, and the ‘DFF’ which is a D-Flip-Flop. Each of these components come together in a Gate Array format
-(think 2d array) to give the FPGA its signature Field Programmability, or in layman's terms: reconfigurability. 
+the ‘mux’ which is a multiplexer, and the ‘DFF’ which is a D-Flip-Flop. Each of these components come together in a to make a LB    
+that is highly configurable and can create any type of 3 input logic, do single bit addition, and do single bit data storage. 
 
 ### Look Up Table (LUT)
 
