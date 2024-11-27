@@ -129,25 +129,25 @@ SRAM bits to the Set pins on our Mux’s and hook up the input and output pins o
 I hope I have been able to help you better answer the questions presented at the beginning of this article and maybe even help you answer them 
 yourself. Just in case you are still confused I will now try to provide answers to them and solidify your understanding even more. 
 
-#### How do these different FPGA building blocks (LUTs, D-Flip-Flops, Block memory) come together to execute an instruction specified by our VHDL
+**How do these different FPGA building blocks (LUTs, D-Flip-Flops, Block memory) come together to execute an instruction specified by our HDL?**
 
 LUTs allow us to create anytype of combinational logic that we want, think AND, OR, NOR, etc… These different types of combinational logic allow 
 us to perform different operations like add, multiply, subtract, etc… The flip-flops allow us to store critical information about the data in our
 FPGA between clock cycles and let us do sequential operations like store state or implement counters. Block Memory is usually the SRAM that we 
 discussed allows us to configure our LUTs and interconnection resources in the Field.
 
-#### How exactly does a FPGA execute your textual code/instructions in parallel? 
+**How exactly does a FPGA execute your textual code/instructions in parallel?** 
 
 It doesn't exactly EXECUTE your code, like how a microprocessor would. Instead, your code describes the types of logic you want to implement and 
 the synthesizer in your software environment creates the circuits that describe your logic. Those circuits are then created on the FPGA by writing
 to the SRAM blocks that determine your LUT and interconnect configurations.
 
-#### Where does your compiled bitstream go once you generate it and how does it create the connections inside the FPGA? 
+**Where does your compiled bitstream go once you generate it and how does it create the connections inside the FPGA?**
 
 It gets written to the SRAM using the Column Address and Row Address lines as shown in figure 5. It creates the connections by setting the desired
 pins we want to set to the outputs of our multiplexers.
 
-#### How are the LUTs and Flip Flops actually made, with Transistors? 
+**How are the LUTs and Flip Flops actually made, with Transistors?** 
 
 Yup! View Figures 7 and 5 to see how some of the LUT and Flip-Flop components might be made. For more on Flip-Flop architecture check out source [9]. 
 
