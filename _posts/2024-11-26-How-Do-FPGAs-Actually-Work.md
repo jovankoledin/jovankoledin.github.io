@@ -19,7 +19,7 @@ combined together can make any type of logic, think adders, multipliers, storage
 we know that we can create different types of logic elements such as adders, multipliers, storage elements, and switch boxes
 using transistors let's take a closer look at an example FPGA architecture to see how these elements come together:
 
-![Alt text](images/FPGA/Figure1.png)
+![Alt text](/images/FPGA/Figure1.png)
 Figure 1. Generic FPGA architecture [1]
 
 In Figure 1 (above) you can see a very simplified architecture diagram of a FPGA chip. There are three key components highlighted,
@@ -29,7 +29,7 @@ what are they, and how are they made?
 
 ### Logic Blocks
 
-![Alt text](images/FPGA/Figure2.png)
+![Alt text](/images/FPGA/Figure2.png)
 Figure 2. Simplified logic block/cell example [2]
 
 In Figure 2 (above again :])we can see a more detailed view of a simplified logic block (LB), logic cell (LC) is the same thing, 
@@ -40,7 +40,7 @@ the ‘mux’ which is a multiplexer, and the ‘DFF’ which is a D-Flip-Flop. 
 
 ### Look Up Table (LUT)
 
-![Alt text](images/FPGA/Figure3.png)
+![Alt text](/images/FPGA/Figure3.png)
 Figure 3. Look-Up-Table (LUT) Architecture [3]
 
 Let's start with the ‘3-LUT’, we usually just call these look up tables. In Figure 3 (above :)) we can see the architecture of a basic 3-LUT,
@@ -50,7 +50,7 @@ before we should start by talking about those first. Multiplexers are essentiall
 Two input pins that go to the 1 and 0, a set pin that goes into the bottom and an output pin (the one on the right). Below is the truth table
 for one of these multiplexers:
 
-![Alt text](images/FPGA/Figure4.png)
+![Alt text](/images/FPGA/Figure4.png)
 Figure 4. 2:1 Multiplexer Truth Table [5]
 
 Multiplexers act as switch boxes by routing the information from one of the input pins to the output pin (Y) depending on the state of the Set pin (S0).
@@ -61,7 +61,7 @@ the data stored in index 4 of our SRAM which can either be a 1 or 0. You are now
 an instruction like adding two numbers which we might specify in our HDL code. Lets now explain the second key component of the LUT, Static Random
 Access Memory (SRAM). 
 
-![Alt text](images/FPGA/Figure5.png)
+![Alt text](/images/FPGA/Figure5.png)
 Figure 5. SRAM Architecture [4]
 
 In Figure 5 (above :-)) we can see an example architecture for a 8 8 bit SRAM. SRAM is a type of random-access memory (RAM) that uses flip-flops 
@@ -78,8 +78,8 @@ Adder (FA).
 
 ### Full Adder (FA)
 
-![Alt text](images/FPGA/Figure6a.png)
-![Alt text](images/FPGA/Figure6b.jpg)
+![Alt text](/images/FPGA/Figure6a.png)
+![Alt text](/images/FPGA/Figure6b.jpg)
 Figure 6. Full Adder Truth Table [6]
 
 The logic behind a full adder is shown in Figure 6 (above…) It consists of three inputs pins with the C - IN denoting a carry signal that could be 
@@ -88,7 +88,7 @@ accomplish the adder logic is due to the commonality of the adding operation and
 to relying on a slower and more spatially intensive memory lookup method like a LUT.Full Adders are very simple components that are also built
 using a combination of transistors as shown in Figure 7. 
 
-![Alt text](images/FPGA/Figure7.png)
+![Alt text](/images/FPGA/Figure7.png)
 Figure 7. Conventional CMOS full adder [7]
 
 The full adders allow us to implement addition in an extremely fast manner within our FPGA. Even though a single full adder in one of our logic blocks
@@ -97,7 +97,7 @@ enough logic blocks.
 
 ### D Flip-Flop
 
-![Alt text](images/FPGA/Figure8.png)
+![Alt text](/images/FPGA/Figure8.png)
 Figure 8. D Flip-Flop Truth Table [8]
 
 Now it is time to discuss the final component in our logic blocks, the D-Flip-Flop. A D Flip-Flop is a simple component with a Truth Table as shown 
@@ -116,7 +116,7 @@ interconnects in our FPGAs are essentially built using many different wires that
 want to connect any two specific logic blocks, for example to implement higher bit adders, we tell the switch block to close the connection between 
 those two LBs that we want to chain together. 
 
-![Alt text](images/FPGA/Figure9.png)
+![Alt text](/images/FPGA/Figure9.png)
 Figure 9. FPGA programmable interconnect diagram [1]
 
 In the figure (9) above we can see how the switch matrix is at the center of many different wires that are running throughout our FPGA and connecting 
