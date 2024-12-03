@@ -1,2 +1,1 @@
-A place to expand on the things I am learning about.  
-I am currently pursuing my M.S. in Electrical and Computer Engineering with a focus in Embedded Systems at The University of Washington.
+My name is Jovan Koledin, I am a student at the University of Washington currently pursuing a M.S. in Electrical and Computer Engineering with an Embedded Systems focus. However, I get curious about lots of different things in addition to Electrical Engineering, so I made this page to expand on the subjects I have taken an interest in, whether they be school related or not. I hope you can learn something from this page! If you find any issues with a post please send me an [email](jovank@uw.edu) about it with a correction and I will update the post and shout you out. Thanks!
