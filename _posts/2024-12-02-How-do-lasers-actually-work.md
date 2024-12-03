@@ -7,7 +7,7 @@ and control them. How do we actually control lasers? What is laser polarization?
 the optical domain to the signal domain and plot a laser on an Oscilloscope? Below I will attempt to answer all of these questions and give 
 you a better understanding of a really cool technology.
 
-![Alt text](/images/Laser/Figure1.png)
+![Alt text](/images/Laser/Figure1.png)  
 Figure 1. Lockheed Martin IFPC-HEL laser program that I worked on [1]
 
 ### How do we Control a Laser?
@@ -44,7 +44,7 @@ to adjust polarization. Polarization Maintaining fibers are used when stable pol
 the polarization state to average out polarization-dependent effects. Active Feedback Systems provide real-time monitoring and adjustment to ensure consistent
 polarization alignment.
 
-![Alt text](/images/Laser/Figure2.jpg)
+![Alt text](/images/Laser/Figure2.jpg)  
 Figure 2. Polarization of a laser visualized with its electric field [2]
 
 ### How do we convert a Laser to a signal domain suitable for viewing it on a Oscilloscope?
@@ -60,7 +60,7 @@ input and ensure the impedance of the Oscilloscope matches the circuit (usually 
 noise produced by the laser system, the best way to do this is to use shielded cables that are properly grounded to carry power and signals through your system 
 that are most likely high power and generating high noise.
 
-![Alt text](/images/Laser/Figure3.png)
+![Alt text](/images/Laser/Figure3.png)  
 Figure 3. Sine wave that might look like a laser displayed on a Oscilliscope [3]
 
 ### Sources
