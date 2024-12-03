@@ -44,7 +44,7 @@ to adjust polarization. Polarization Maintaining fibers are used when stable pol
 the polarization state to average out polarization-dependent effects. Active Feedback Systems provide real-time monitoring and adjustment to ensure consistent
 polarization alignment.
 
-![Alt text](/images/Laser/Figure2.jpg)  
+![Alt text](/images/Laser/Figure2.png)  
 Figure 2. Polarization of a laser visualized with its electric field [2]
 
 ### How do we convert a Laser to a signal domain suitable for viewing it on a Oscilloscope?
@@ -65,6 +65,6 @@ Figure 3. Sine wave that might look like a laser displayed on a Oscilliscope [3]
 
 ### Sources
 1. https://breakingdefense.com/2023/07/lockheed-secures-221m-army-deal-for-high-powered-air-defense-laser-prototype/
-2. https://www.haaslti.com/polarization.html
+2. [https://www.haaslti.com/polarization.html](https://byjus.com/physics/polarization-of-light/)
 3. https://learn.sparkfun.com/tutorials/how-to-use-an-oscilloscope/all
 
