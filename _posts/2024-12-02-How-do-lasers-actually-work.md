@@ -44,7 +44,7 @@ to adjust polarization. Polarization Maintaining fibers are used when stable pol
 the polarization state to average out polarization-dependent effects. Active Feedback Systems provide real-time monitoring and adjustment to ensure consistent
 polarization alignment.
 
-![Alt text](/images/Laser/Figure2.png)
+![Alt text](/images/Laser/Figure2.jpg)
 Figure 2. Polarization of a laser visualized with its electric field [2]
 
 ### How do we convert a Laser to a signal domain suitable for viewing it on a Oscilloscope?
