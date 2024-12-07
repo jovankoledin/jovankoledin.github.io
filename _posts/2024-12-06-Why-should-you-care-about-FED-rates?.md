@@ -6,15 +6,15 @@ The FED stands for Federal Reserve, which is the central banking system of the U
 
 ### What rates do the FED actually change?
 
-Let's break this question down by starting from something you typically might hear in the news: “Federal Reserve cuts interest rates by a quarter point” [1]. 
+Let's break this question down by starting from something you typically might hear in the news: [“Federal Reserve cuts interest rates by a quarter point”](https://www.cnbc.com/2024/11/07/fed-rate-decision-november-2024.html). 
 
 ![Alt text](/images/FED/Figure1.png)  
-Figure 1. Typical headline you might see about the FED cutting rates [1]  
+Figure 1. Typical headline you might see about the FED cutting rates [[1]](https://www.cnbc.com/2024/11/07/fed-rate-decision-november-2024.html)  
 
 In more complicated but accurate terminology this means the Federal Open Market Committee (FOMC) lowered its benchmark overnight borrowing rate by 0.25%, in this 11/7/2024 case that meant that the target rate for what banks should charge each other for overnight lending was set to 4.50%-4.75%. You are probably more confused now than you were before, but just take a breather and re-read that statement to let it sink in. The FED/FOMC isn't actually changing any rates, but it’s adjusting a benchmark to a specific desired range. Ok, so in this example we know a group in the FED just set a benchmark (see the FOMC group in Figure 2), but who actually is looking at this benchmark and adjusting their interest rates?
 
 ![Alt text](/images/FED/Figure2.jpg)  
-Figure 2. The Federal Reserve System broken down into its sub entities and key functions [2]  
+Figure 2. The Federal Reserve System broken down into its sub entities and key functions [[2]](https://www.federalreserveeducation.org/about-the-fed/archive-structure-and-functions/)  
 
 Once the FOMC sets a benchmark overnight rate range it is now the job of the rest of the FED (usually the 12 Federal Reserve Banks) to use its tools to ensure that the Federal Funds Rate/Overnight borrowing rate (FFR) moves in the direction of the new target range. 
 
@@ -23,7 +23,7 @@ Once the FOMC sets a benchmark overnight rate range it is now the job of the res
 The Interest on Reserve Balances (IORB) rate is the first tool that the FED has that enables it to affect the Federal Funds Rate. IORB is essentially the interest that the 12 Federal Reserve Banks pay to commercial banks on the excess reserves they hold for them. For example, Bank of America Seattle might have a bunch of extra money that they don't want to just leave lying around earning no interest. So they look around for a place to put some of that money, and see that their local Federal Reserve Bank (see Figure 3) in San Francisco will pay them the IORB rate for their money. If they like the IORB rate they will give some money to their reserve branch and make the IORB rate on their money with relatively low risk.  
 
 ![Alt text](/images/FED/Figure3.JPG)  
-Figure 3. The twelve Federal Reserve Banks and their Districts [3]  
+Figure 3. The twelve Federal Reserve Banks and their Districts [[3]](https://www.richmondfed.org/research/national_economy/macro_minute/2024/which_fed_districts_look_like_us_20240416)  
 
 #### How does the IORB affect the Federal Funds Rate? 
 
@@ -34,7 +34,7 @@ When I say “Banks lending to each other” you should also hear it as Banks le
 So we now know how the floor is typically set for banks and the interest rates that they will loan money out. But, what is to prevent them from charging you super high interest rates? That is where the Discount Rate comes into play. The Discount Rate is the interest rate charged by the Federal Reserve to banks for loans. For example if Bank of America is running low on money they can get a loan from the Federal Reserve and pay the Discount Rate for that loan. It serves as a ceiling for the Federal Funds Rate because banks are unlikely to borrow at a higher rate than they can borrow from the Fed. You might be confused with how that affects the ceiling interest rates that banks will lend to you at, but that is where the beauty of competition comes into play. There is more than one commercial bank! If Bank of America will only lend you money for your home at a 8% interest rate, but Chase can get a loan from the Federal Reserve at a 5% discount rate then there is nothing to stop them from sweeping in and offering you a loan at 7% and pocketing the extra 2%. There is also nothing stopping Wells Fargo from coming in and stealing your business from Chase by offering a 6% rate and pocketing the free 1%. Competition and the availability of money at a 5% rate from the Federal Reserve ensures that your mortgage interest rate doesn't skyrocket. I hope you now understand how the FED can manipulate the ceiling of the FFR by changing the Discount Rate.
 
 In conclusion, the main rates that FED changes in order to set the lower and upper bounds for the Overnight Borrowing Rate or Federal Funds Rate are the Interest on Reserve Balances (IORB) rate and the Discount rate respectively. Back to our 11/7/2024 example we started with, if the Federal Open Market Committee decides it wants to cut rates by 0.25% it makes an announcement to the 12 Federal Reserve banks telling them what to do. The 12 banks then go in and decrease their IORB and Discount rates by 0.25%. If the IORB was previously 4.75% and the Discount Rate was 5% then a decrease in both by 0.25% would roughly create a desired Overnight Borrowing Rate of 4.5%-4.75%.
-NOTE: This is a gross oversimplification and there are other tools that the FED uses to adjust the FFR/Overnight Borrowing Rate, but the answer is good enough for me, if you want to you can read more about them and their history at source [4].
+NOTE: This is a gross oversimplification and there are other tools that the FED uses to adjust the FFR/Overnight Borrowing Rate, but the answer is good enough for me, if you want to you can read more about them and their history at source [[4]](https://www.stlouisfed.org/publications/page-one-economics/2020/08/03/the-feds-new-monetary-policy-tools).
 
 ### Why does the stock market fluctuate whenever the FED changes rates?
 
@@ -43,7 +43,7 @@ This question may be operating under a false premise, at the end of the day the 
 There are many ways to answer that question but simply, if the FED lowers its rates that means that Banks are more likely to lend to you and me money because they aren't getting good money by keeping it at the Federal Reserve. If you and I can get more money we are more likely to spend more money. If you and I can spend more money that means we will buy more stuff because we are human. If we buy more stuff then that means companies will make more money because we are giving it to them by buying their stuff. If companies make more money then they will report higher earnings. If companies are reporting higher earnings then more people will buy the stock of those companies. If people buy more stocks then the stock market goes up! This chain of thought also applies in the opposite direction if the FED increases rates. See Figure 4 for more evidence of this approximate logic.
 
 ![Alt text](/images/FED/Figure4.png)    
-Figure 4. Fed Rate (Red) vs S&P 500 (Black) 1980-2021 [5]  
+Figure 4. Fed Rate (Red) vs S&P 500 (Black) 1980-2021 [[5]](https://spxinvestingblog.com/stock-prices-and-interest-rates/)  
 
 You can see that very generally when the FED rates are higher than the stock market is lower, when the FED rates are lower than the stock market is higher. 
 
@@ -52,7 +52,7 @@ You can see that very generally when the FED rates are higher than the stock mar
 Now that we know what the FED rates are and how they affect our access to money let's explore how that might affect inflation. Inflation is the price change of a basket of goods that your average household might purchase, usually things such as food, housing, transportation, and healthcare. In an ideal capitalist country the only thing that determines the price of a good is whoever is selling that item (trust me this is usually a good thing, I might make another post detailing why). For example the price of the lemonade at your lemonade stand is set 100% by you. What is the main factor that determines the price a seller charges for their good? In a capitalist country it is usually the max price at which buyers will buy their goods at a desirable rate. If I sell my cups of lemonade for $1,000,000 dollars, no one will buy them, if I sell them for $0.01 I won't make any real money on them but lots of people will buy. My price will be somewhere in between $1,000,00 and $0.01, whatever maximizes the money I will have in my pocket at the end of the day. 
 
 ![Alt text](/images/FED/Figure5.png)  
-Figure 5. Federal Funds Rate vs. Inflation 1955-2024 [6]  
+Figure 5. Federal Funds Rate vs. Inflation 1955-2024 [[6]](https://fred.stlouisfed.org/series/FEDFUNDS#)  
 
 Now we know that inflation is approximately tied to how much consumers are willing to spend on a basket of goods. If the FED increases rates then we will have less money and spend less, effectively bringing down inflation. If the FED decreases rates then we will have more money and therefore spend more which will increase inflation. In Figure 5 we can see that the FFR roughly tracks inflation. The FED wants to keep the economy growing and people spending money but doesn't want the price of goods to get out of control, so it aims to maintain a 2% inflation rate. The FED does its best to keep the economy heading in a good direction by raising and lowering the Federal Funds Rate. 
 
