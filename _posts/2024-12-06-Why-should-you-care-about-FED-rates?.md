@@ -20,7 +20,7 @@ Once the FOMC sets a benchmark overnight rate range it is now the job of the res
 
 #### Actual interest rates that the 12 Federal Reserve Banks change
 
-The Interest on Reserve Balances (IORB) rate is the first tool that the FED has that enables it to affect the Federal Funds Rate. IORB is essentially the interest that the 12 Federal Reserve Banks pay to commercial banks on the excess reserves they hold for them. For example, Bank of America Seattle might have a bunch of extra money that they don't want to just leave lying around earning no interest. So they look around for a place to put some of that money, and see that their local Federal Reserve Bank (see Figure 3) in San Francisco will pay them the IORB rate for their money. If they like the IORB rate they will give some money to their reserve branch and make the IORB rate on their money with relatively low risk .  
+The Interest on Reserve Balances (IORB) rate is the first tool that the FED has that enables it to affect the Federal Funds Rate. IORB is essentially the interest that the 12 Federal Reserve Banks pay to commercial banks on the excess reserves they hold for them. For example, Bank of America Seattle might have a bunch of extra money that they don't want to just leave lying around earning no interest. So they look around for a place to put some of that money, and see that their local Federal Reserve Bank (see Figure 3) in San Francisco will pay them the IORB rate for their money. If they like the IORB rate they will give some money to their reserve branch and make the IORB rate on their money with relatively low risk.  
 
 ![Alt text](/images/FED/Figure3.JPG)  
 Figure 3. The twelve Federal Reserve Banks and their Districts [3]  
