@@ -150,7 +150,7 @@ get chosen to be used by our FPGA for whatever program we wrote.
 
 **How are the LUTs and Flip Flops actually made, with Transistors?** 
 
-Yup! View Figures 7 and 5 to see how some of the LUT and Flip-Flop components might be made. For more on Flip-Flop architecture check out source [9]. 
+Yup! View Figures 7 and 5 to see how some of the LUT and Flip-Flop components might be made. For more on Flip-Flop architecture check out source [[9]](https://en.wikipedia.org/wiki/Flip-flop_(electronics)). 
 
 #### Sources:
 
