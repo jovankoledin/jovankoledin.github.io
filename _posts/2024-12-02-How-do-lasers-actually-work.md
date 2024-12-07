@@ -8,7 +8,7 @@ the optical domain to the signal domain and plot a laser on an Oscilloscope? Bel
 you a better understanding of a really cool technology.
 
 ![Alt text](/images/Laser/Figure1.png)  
-Figure 1. Lockheed Martin IFPC-HEL laser program that I worked on [1]
+Figure 1. Lockheed Martin IFPC-HEL laser program that I worked on [[1]](https://breakingdefense.com/2023/07/lockheed-secures-221m-army-deal-for-high-powered-air-defense-laser-prototype/)
 
 ### How do we Control a Laser?
  
@@ -45,7 +45,7 @@ the polarization state to average out polarization-dependent effects. Active Fee
 polarization alignment.
 
 ![Alt text](/images/Laser/Figure2.png)  
-Figure 2. Polarization of a laser visualized with its electric field [2]
+Figure 2. Polarization of a laser visualized with its electric field [[2]](https://byjus.com/physics/polarization-of-light/)
 
 ### How do we convert a Laser to a signal domain suitable for viewing it on a Oscilloscope?
  
@@ -61,10 +61,10 @@ noise produced by the laser system, the best way to do this is to use shielded c
 that are most likely high power and generating high noise.
 
 ![Alt text](/images/Laser/Figure3.png)  
-Figure 3. Sine wave that might look like a laser displayed on a Oscilliscope [3]
+Figure 3. Sine wave that might look like a laser displayed on a Oscilliscope [[3]](https://learn.sparkfun.com/tutorials/how-to-use-an-oscilloscope/all)
 
 ### Sources
 1. https://breakingdefense.com/2023/07/lockheed-secures-221m-army-deal-for-high-powered-air-defense-laser-prototype/
-2. [https://www.haaslti.com/polarization.html](https://byjus.com/physics/polarization-of-light/)
+2. https://byjus.com/physics/polarization-of-light/
 3. https://learn.sparkfun.com/tutorials/how-to-use-an-oscilloscope/all
 
