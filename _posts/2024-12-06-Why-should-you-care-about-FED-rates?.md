@@ -61,7 +61,7 @@ Now we know that inflation is approximately tied to how much consumers are willi
 I hope I was able to accurately answer the questions I asked at the beginning of this post. However, I am an Engineer and don't have any formal economics schooling so I probably made some mistakes, please reach out to me if you see a mistake and I will shout you out and make the correction. To recap:
 
 #### When the FED cuts interest rates usually we see the stock market go up, when the FED raises rates usually it goes down. Why is that?  
-When the FED cuts their FFR people have more access to capital and therefore will buy more goods which will increase the stock price of companies, Vice a versa when the FED raises the FFR. 
+When the FED cuts their FFR people have more access to capital and therefore will buy more goods which will increase the stock price of companies, and vice a versa when the FED raises the FFR. 
 
 #### You probably know what interest rates are, but what rates do the FED actually have control over?
 The main rates that the FED directly manipulates are the Interest on Reserve Balances (IORB) and the Discount Rate, these rates help to determine the lower and upper bounds of the Federal Funds Rate.
