@@ -4,7 +4,7 @@ It always seems like we are hearing about the FED cutting/raising interest rates
 
 The FED stands for Federal Reserve, which is the central banking system of the United States, re-read what I just said, “central **banking** system”. This is something that I didn't know for a long time, the Federal Government has its own Bank! The main job of banks is to hold and lend money, keep this in mind moving forward through the reading as it will influence our answers to many of the following questions.
 
-## What rates do the FED actually change?
+### What rates do the FED actually change?
 
 Let's break this question down by starting from something you typically might hear in the news: “Federal Reserve cuts interest rates by a quarter point” [1]. 
 
@@ -36,7 +36,7 @@ So we now know how the floor is typically set for banks and the interest rates t
 In conclusion, the main rates that FED changes in order to set the lower and upper bounds for the Overnight Borrowing Rate or Federal Funds Rate are the Interest on Reserve Balances (IORB) rate and the Discount rate respectively. Back to our 11/7/2024 example we started with, if the Federal Open Market Committee decides it wants to cut rates by 0.25% it makes an announcement to the 12 Federal Reserve banks telling them what to do. The 12 banks then go in and decrease their IORB and Discount rates by 0.25%. If the IORB was previously 4.75% and the Discount Rate was 5% then a decrease in both by 0.25% would roughly create a desired Overnight Borrowing Rate of 4.5%-4.75%.
 NOTE: This is a gross oversimplification and there are other tools that the FED uses to adjust the FFR/Overnight Borrowing Rate, but the answer is good enough for me, if you want to you can read more about them and their history at source [4].
 
-## Why does the stock market fluctuate whenever the FED changes rates?
+### Why does the stock market fluctuate whenever the FED changes rates?
 
 This question may be operating under a false premise, at the end of the day the stock market only changes because of investors taking action. You can't say that if the FED cuts/raises rates then for sure the stock market will rise/fall, but it is generally the case. You also can't say that the stock market will always fluctuate in response to the FED changing rates, but it is generally the case. Now that I cleared that up we can attempt to answer why generally the stock market might change when the FED changes rates. 
 
@@ -47,7 +47,7 @@ Figure 4. Fed Rate (Red) vs S&P 500 (Black) 1980-2021 [5]
 
 You can see that very generally when the FED rates are higher than the stock market is lower, when the FED rates are lower than the stock market is higher. 
 
-## How do the FED rates affect Inflation?
+### How do the FED rates affect Inflation?
 
 Now that we know what the FED rates are and how they affect our access to money let's explore how that might affect inflation. Inflation is the price change of a basket of goods that your average household might purchase, usually things such as food, housing, transportation, and healthcare. In an ideal capitalist country the only thing that determines the price of a good is whoever is selling that item (trust me this is usually a good thing, I might make another post detailing why). For example the price of the lemonade at your lemonade stand is set 100% by you. What is the main factor that determines the price a seller charges for their good? In a capitalist country it is usually the max price at which buyers will buy their goods at a desirable rate. If I sell my cups of lemonade for $1,000,000 dollars, no one will buy them, if I sell them for $0.01 I won't make any real money on them but lots of people will buy. My price will be somewhere in between $1,000,00 and $0.01, whatever maximizes the money I will have in my pocket at the end of the day. 
 
