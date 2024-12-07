@@ -25,7 +25,9 @@ The Interest on Reserve Balances (IORB) rate is the first tool that the FED has 
 ![Alt text](/images/FED/Figure3.JPG)  
 Figure 3. The twelve Federal Reserve Banks and their Districts [3]  
 
-#### How does the IORB affect the Federal Funds Rate? Remember the Federal Funds Rate is the same thing as the interest rate that banks charge each other for overnight loans. If the IORB is higher than the Federal Funds rate then banks will have way less incentive to lend each other money because they can earn more by just holding it with the FED, so effectively an increase in the IORB will raise the floor of the Federal Funds rate. But if the IORB is lowered then that increases the likelihood that Banks will lend to each other because they aren't making as much with the FED. 
+#### How does the IORB affect the Federal Funds Rate? 
+
+Remember the Federal Funds Rate is the same thing as the interest rate that banks charge each other for overnight loans. If the IORB is higher than the Federal Funds rate then banks will have way less incentive to lend each other money because they can earn more by just holding it with the FED, so effectively an increase in the IORB will raise the floor of the Federal Funds rate. But if the IORB is lowered then that increases the likelihood that Banks will lend to each other because they aren't making as much with the FED. 
 
 When I say “Banks lending to each other” you should also hear it as Banks lending to you! Think about it, if the IORB is increased to 5%, why would a bank lend you money for a home at a 4% interest rate? They can just put it in their local Federal Reserve and make more money instead! What they will do is only lend you money for your home if you are willing to pay them over 5%. I say over 5% and not 5% because the Federal reserve is way more trustworthy then you are so they want you to pay more than the IORB to account for the extra risk and make it worth their while. This essentially establishes a floor/minimum for the interest rates that we might see when going to a bank and asking for a loan.
 
