@@ -30,7 +30,7 @@ what are they, and how are they made?
 ### Logic Blocks
 
 ![Alt text](/images/FPGA/Figure2.png)  
-Figure 2. Simplified logic block/cell example [2]
+Figure 2. Simplified logic block/cell example [[2]](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
 
 In Figure 2 (above again :])we can see a more detailed view of a simplified logic block (LB), logic cell (LC) is the same thing, 
 as well as a configurable logic block (CLB), or logic element (LE) depending on the naming convention. Inside this LB there are usually
@@ -41,7 +41,7 @@ that is highly configurable and can create any type of 3 input logic, do single 
 ### Look Up Table (LUT)
 
 ![Alt text](/images/FPGA/Figure3.png)  
-Figure 3. Look-Up-Table (LUT) Architecture [3]
+Figure 3. Look-Up-Table (LUT) Architecture [[3]](https://hardwarebee.com/the-ultimate-guide-to-fpga-architecture/)
 
 Let's start with the ‘3-LUT’, we usually just call these look up tables. In Figure 3 (above :)) we can see the architecture of a basic 3-LUT,
 there are the three input pins (‘3’) A, B, C and a Output pin. We also have 8 2:1 Mux’s or multiplexers and some 8 bit SRAM (Static Random 
@@ -51,7 +51,7 @@ Two input pins that go to the 1 and 0, a set pin that goes into the bottom and a
 for one of these multiplexers:
 
 ![Alt text](/images/FPGA/Figure4.png)  
-Figure 4. 2:1 Multiplexer Truth Table [5]
+Figure 4. 2:1 Multiplexer Truth Table [[5]](https://www.geeksforgeeks.org/multiplexers-in-digital-logic/)
 
 Multiplexers act as switch boxes by routing the information from one of the input pins to the output pin (Y) depending on the state of the Set pin (S0).
 That's cool and all but how do these help us with the LUT? If we look back at Figure 3 we can see that 8 of them are connected together in a 
@@ -62,7 +62,7 @@ an instruction like adding two numbers which we might specify in our HDL code. L
 Access Memory (SRAM). 
 
 ![Alt text](/images/FPGA/Figure5.png)  
-Figure 5. SRAM Architecture [4]
+Figure 5. SRAM Architecture [[4]](https://barth-dev.de/knowledge-corner/digital-design/memory-array-architectures/)
 
 In Figure 5 (above :-)) we can see an example architecture for a 8 8 bit SRAM. SRAM is a type of random-access memory (RAM) that uses flip-flops 
 to store each bit, SRAM is static (S) which means it maintains its state in the presence of power, but it’s volatile which means once power is turned 
@@ -80,7 +80,7 @@ Adder (FA).
 
 ![Alt text](/images/FPGA/Figure6a.png)  
 ![Alt text](/images/FPGA/Figure6b.jpg)  
-Figure 6. Full Adder Truth Table [6]
+Figure 6. Full Adder Truth Table [[6]](https://www.geeksforgeeks.org/full-adder-in-digital-logic/)
 
 The logic behind a full adder is shown in Figure 6 (above…) It consists of three inputs pins with the C - IN denoting a carry signal that could be 
 from a previous adder if there are multiple chained together. The reason FPGAs have a dedicated FA circuit and dont just use more complex LUTs to
@@ -89,7 +89,7 @@ to relying on a slower and more spatially intensive memory lookup method like a 
 using a combination of transistors as shown in Figure 7. 
 
 ![Alt text](/images/FPGA/Figure7.png)  
-Figure 7. Conventional CMOS full adder [7]
+Figure 7. Conventional CMOS full adder [[7]](https://www.researchgate.net/figure/Conventional-CMOS-full-adder_fig1_249567605)
 
 The full adders allow us to implement addition in an extremely fast manner within our FPGA. Even though a single full adder in one of our logic blocks
 can only add one bit values, if we combine multiple logic blocks together and chain their adders we can add numbers of any bit size as long as we have
@@ -98,7 +98,7 @@ enough logic blocks.
 ### D Flip-Flop
 
 ![Alt text](/images/FPGA/Figure8.png)  
-Figure 8. D Flip-Flop Truth Table [8]
+Figure 8. D Flip-Flop Truth Table [[8]](https://electromagneticworld.blogspot.com/2017/05/flip-flop-circuits.html)
 
 Now it is time to discuss the final component in our logic blocks, the D-Flip-Flop. A D Flip-Flop is a simple component with a Truth Table as shown 
 in Figure 8 (above!). Simply, when the clk pin is high the Q pin is set to whatever D value is present. When the clk pin is low Q holds its state.
@@ -116,7 +116,7 @@ using many different wires and switch boxes that run between all of the logic bl
 for example to implement a 2 bit adder, we tell the switch block to close the connection between those two LBs that we want to chain together. 
 
 ![Alt text](/images/FPGA/Figure9.png)  
-Figure 9. FPGA programmable interconnect diagram [1]
+Figure 9. FPGA programmable interconnect diagram [[1]](https://www.eetimes.com/all-about-fpgas/)
 
 In the figure (9) above we can see how the switch matrix is at the center of many different wires that are running throughout our FPGA and connecting 
 the different CLB/LBs together. The switch box/matrix is realized by using small transistors controlled by configuration data stored in the FPGA's
