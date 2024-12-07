@@ -70,7 +70,7 @@ The main rates that the FED directly manipulates are the Interest on Reserve Bal
 Yes, they are related because they influence the price at which commercial banks will loan you money for mortgage and auto loans.
 
 #### What causes the FED to change rates, you probably know it is in response to inflation, but how does the FED increasing rates decrease/increase inflation? 
-The FED can manipulate the amount of money flowing in the US from buyers to sellers. When it decreases the money flowing by raising rates that decreases the price at which sellers can attract buyers, which brings down the cost of goods and therefore inflation.
+The FED can manipulate the amount of money flowing in the US from buyers to sellers. When it decreases the money flowing by raising rates that decreases the price at which sellers can attract buyers to their goods, which brings down the cost of those goods and therefore inflation.
 
 ### Sources:
 1. https://www.cnbc.com/2024/11/07/fed-rate-decision-november-2024.html
