@@ -4,16 +4,16 @@ It always seems like we are hearing about the FED cutting/raising interest rates
 
 The FED stands for Federal Reserve, which is the central banking system of the United States, re-read what I just said, “central banking system”. This is something that I didn't know for a long time, the Federal Government has its own Bank! The main job of banks is to hold and lend money, keep this in mind moving forward through the reading as it will influence our answers to many of the following questions.
 
-What rates do the FED actually change?
+## What rates do the FED actually change?
 
 Let's break this question down by starting from something you typically might hear in the news: “Federal Reserve cuts interest rates by a quarter point” [1]. 
 
-![Alt text](/images/FED/Figure1.png)   
+![Alt text](/images/FED/Figure1.png)  
 Figure 1. Typical headline you might see about the FED cutting rates [1]  
 
 In more complicated but accurate terminology this means the Federal Open Market Committee (FOMC) lowered its benchmark overnight borrowing rate by 0.25%, in this 11/7/2024 case that meant that the target rate for what banks should charge each other for overnight lending was set to 4.50%-4.75%. You are probably more confused now than you were before, but just take a breather and re-read that statement to let it sink in. The FED/FOMC isn't actually changing any rates, but it’s adjusting a benchmark to a specific desired range. Ok, so in this example we know a group in the FED just set a benchmark (see the FOMC group in Figure 2), but who actually is looking at this benchmark and adjusting their interest rates?
 
-![Alt text](/images/FED/Figure2.jpg)    
+![Alt text](/images/FED/Figure2.jpg)  
 Figure 2. The Federal Reserve System broken down into its sub entities and key functions [2]  
 
 Once the FOMC sets a benchmark overnight rate range it is now the job of the rest of the FED (usually the 12 Federal Reserve Banks) to use its tools to ensure that the Federal Funds Rate/Overnight borrowing rate (FFR) moves in the direction of the new target range. 
