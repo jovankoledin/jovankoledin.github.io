@@ -20,7 +20,7 @@ we know we can create different types of logic elements using transistors, let's
 architecture to see how these elements come together to make a FPGA:
 
 ![Alt text](/images/FPGA/Figure1.png)  
-Figure 1. Generic FPGA architecture [1](https://www.eetimes.com/all-about-fpgas/)
+Figure 1. Generic FPGA architecture [[1]](https://www.eetimes.com/all-about-fpgas/)
 
 In Figure 1 (above) you can see a very simplified architecture diagram of a FPGA chip. There are three key components highlighted,
 Logic Blocks, Interconnection Resources, and I/O Cells. In this post I will not talk much about the I/O Cells but you can just think
