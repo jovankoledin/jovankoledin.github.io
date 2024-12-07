@@ -54,7 +54,7 @@ Now that we know what the FED rates are and how they affect our access to money 
 ![Alt text](/images/FED/Figure5.png)  
 Figure 5. Federal Funds Rate vs. Inflation 1955-2024 [6]  
 
-So now we know that what determines the price of goods and therefore inflation is approximately how much consumers are willing to spend on that good. So if the FED increases rates then we will have less money and spend less, effectively bringing down inflation. If the FED decreases rates then we will have more money and therefore spend more which will increase inflation. In Figure 5 we can see that the FFR roughly tracks inflation. The FED wants to keep the economy growing and people spending money but doesn't want the price of goods to get out of control, so it aims to maintain a 2% inflation rate. The FED does its best to keep the economy heading in a good direction by raising and lowering the Federal Funds Rate. 
+Now we know that inflation is approximately how much consumers are willing to spend on that good. So if the FED increases rates then we will have less money and spend less, effectively bringing down inflation. If the FED decreases rates then we will have more money and therefore spend more which will increase inflation. In Figure 5 we can see that the FFR roughly tracks inflation. The FED wants to keep the economy growing and people spending money but doesn't want the price of goods to get out of control, so it aims to maintain a 2% inflation rate. The FED does its best to keep the economy heading in a good direction by raising and lowering the Federal Funds Rate. 
 
 ### Conclusion
 
