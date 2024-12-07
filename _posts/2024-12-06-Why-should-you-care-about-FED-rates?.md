@@ -2,7 +2,7 @@
 
 It always seems like we are hearing about the FED cutting/raising interest rates in the news. I have always had a high level understanding of what the FED interest rates do, but usually have more questions than answers whenever I am reminded about changing rates. In this post I will go more in depth on how the FED rates affect us. When the FED cuts interest rates usually we see the stock market go up, when the FED raises rates usually it goes down. Why is that? You probably know what interest rates are, but what rates do the FED actually have control over? Are those interest rates that the FED controls related to mortgage or car loan rates? What causes the FED to change rates, you probably know it is in response to inflation, but how does the FED increasing rates decrease/increase inflation? 
 
-The FED stands for Federal Reserve, which is the central banking system of the United States, re-read what I just said, “central banking system”. This is something that I didn't know for a long time, the Federal Government has its own Bank! The main job of banks is to hold and lend money, keep this in mind moving forward through the reading as it will influence our answers to many of the following questions.
+The FED stands for Federal Reserve, which is the central banking system of the United States, re-read what I just said, “central **banking** system”. This is something that I didn't know for a long time, the Federal Government has its own Bank! The main job of banks is to hold and lend money, keep this in mind moving forward through the reading as it will influence our answers to many of the following questions.
 
 ## What rates do the FED actually change?
 
