@@ -4,7 +4,7 @@ If you have spent any time digging into FPGAs you have probably seen the acronym
 
 ### How do DSP Slices Work?
 
-We are going to take a deeper dive into the AMD/Xilinx 7 Series DSP48E1 which is shown below in Figure 1. From their [spec sheet](https://docs.amd.com/v/u/en-US/ug479_7Series_DSP48E1): “FPGAs are efficient for digital signal processing (DSP) applications because they can implement custom, fully parallel algorithms. DSP applications use many binary multipliers and accumulators that are best implemented in dedicated DSP slices.”. From this quote we see the high level demand for why hardened dedicated DSP blocks would be implemented into FPGAs, but we can also start to get an idea for how they might work at a deeper level. 
+We are going to take a deeper dive into the AMD/Xilinx 7 Series DSP48E1 which is shown below in Figure 1. From their spec sheet [1](https://docs.amd.com/v/u/en-US/ug479_7Series_DSP48E1): “FPGAs are efficient for digital signal processing (DSP) applications because they can implement custom, fully parallel algorithms. DSP applications use many binary multipliers and accumulators that are best implemented in dedicated DSP slices.”. From this quote we see the high level demand for why hardened dedicated DSP blocks would be implemented into FPGAs, but we can also start to get an idea for how they might work at a deeper level. 
 
 ![Alt text](/images/DSP/Figure1.png)  
 Figure 1. Basic DSP48E1 Slice architecture [[1]](https://docs.amd.com/v/u/en-US/ug479_7Series_DSP48E1)  
