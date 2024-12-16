@@ -29,7 +29,7 @@ Now that we understand what is going on under the hood a little better for our D
 
 Looking through the User Guide with ‘Ctrl F’ and searching for “DSP” we start to see which functions the XST recruits DSP Blocks for. The first one is for Counters and Accumulators, Counters usually count the number of occurrences of a specific event, and Accumulators usually store the sum of anything. In your code they might look like the below example from the XST User Guide:
 
-![Alt text](/images/DSP/Figure4.png) 
+![Alt text](/images/DSP/Figure4.png)  
 If the counter or accumulator can fit on one DSP block then the XST engine will usually choose to use a DSP block to implement it, however if it is too big then it will usually just choose to use the typical LUT-FF CLB Slices. By default, standalone adders, subtractors, and adder/subtractors are not implemented with DSP slices. If a user wants more control over when to use DSP slices or not then Implementation of macros on either slice logic or DSP block resources can be controlled by Use DSP Block which has a default value of auto, to force implementation of adders, counters or accumulators on DSP blocks set Use DSP Block to yes.  Another bonus piece of info I found after rooting through the User Guide was that DSP Blocks by default assume signed operands and are usually recruited for signed operations. 
 
 #### Multipliers
@@ -39,7 +39,7 @@ By default XST tries to implement multipliers with DSP blocks, but its operands 
 - Behind the multiplication”
 
 During Multiply-Add and Multiply-Accumulate operations XST will try to utilize the pipelining abilities of DSP blocks by employing registers at every level of operation. By default all MAC operations will be performed on DSP blocks, but if the MAC operation exceeds the size of a single DSP block then it will split up the operation into two and make independent decisions on each. See below for an example MAC operation from the XST User Guide:
-![Alt text](/images/DSP/Figure5.png) 
+![Alt text](/images/DSP/Figure5.png)   
 
 In summary, DSP resource utilization is most common when employing: counters, accumulators, multiply-add, and multiply-accumulate Macros. However if the bit-width of these operations exceeds what can fit on one DSP block then the Synthesizer will usually outsource the operations to multiple LUT-FF slices. 
 
