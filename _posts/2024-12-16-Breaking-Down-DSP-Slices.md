@@ -19,7 +19,7 @@ Looking at Figure 2 more we can see that the control signals to our multiplexers
 ![Alt text](/images/DSP/Figure3.png)  
 Figure 3. 7 Series FPGA DSP48E1 Slice [[1]](https://docs.amd.com/v/u/en-US/ug479_7Series_DSP48E1)  
 
-From Figure 3 we can see the size of our input signals: The A data port is 30 bits wide, the B data port is 18 bits wide, the C data port is 48 bits wide, and the preadder D data port is 25 bits wide. Also, it shows us that there are many more inputs besides the B, A, D, and C ones, the implementation of carry signals makes sense if we want to chain a DSP slice with other ones or with Configurable Logic blocks to perform operations of a size beyond the defined ones for one slice. 
+From Figure 3 we can see the size of our input signals: The A data port is 30 bits wide, the B data port is 18 bits wide, the C data port is 48 bits wide, and the preadder D data port is 25 bits wide. Also, it shows us that there are many more inputs besides the B, A, D, and C ones, the implementation of carry signals makes sense if we want to chain multiple DSP blocks or combine them with LUT-FF slices to perform operations of a size beyond the defined ones for one DSP. 
 
 Hopefully this section could clear up some of your questions about how the DSP slices work at a high level and what their basic features and uses are. To review a little, they are useful for larger bit width multiplication, addition, subtraction, and logic operations that aren’t natively supported by typical LUTs. They can be configured for these different use cases by control signals and can also be chained together if a user wishes to perform even larger bit-width operations. 
 
