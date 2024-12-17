@@ -126,8 +126,7 @@ SRAM bits to the Set pins on our Mux’s and hook up the input and output pins o
 
 ### Conclusion
 
-I hope I have been able to help you better answer the questions presented at the beginning of this article and maybe even help you answer them 
-yourself. Just in case you are still confused I will now try to provide answers to them and solidify your understanding even more. 
+I hope I have been able to help you better answer the questions presented at the beginning of this article. Just in case you are still confused I will now try to provide answers to them and solidify your understanding even more. 
 
 **How do these different FPGA building blocks (LUTs, D-Flip-Flops, Block memory) come together to execute an instruction specified by our HDL?**
 
