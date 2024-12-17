@@ -143,8 +143,8 @@ to the SRAM blocks that determine your LUT and interconnect configurations.
 
 **Where does your compiled bitstream go once you generate it and how does it create the connections inside the FPGA?**
 
-It gets written to the SRAM using the Column Address and Row Address lines as shown in figure 5. It creates the connections inside our FPGA by telling  
-the switch boxes in our interconnection resources which wires to short together and which ones to keep open. The LBs connected to the wires that are shorted   
+It gets written to the SRAM using the Column Address and Row Address lines as shown in figure 5. It creates the connections inside our FPGA by telling
+the switch boxes in our interconnection resources which wires to short together and which ones to keep open. The LBs connected to the wires that are shorted
 get chosen to be used by our FPGA for whatever program we wrote.
 
 **How are the LUTs and Flip Flops actually made, with Transistors?** 
