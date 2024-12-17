@@ -130,7 +130,7 @@ I hope I have been able to help you better answer the questions presented at the
 
 **How do these different FPGA building blocks (LUTs, D-Flip-Flops, Block memory) come together to execute an instruction specified by our HDL?**
 
-LUTs allow us to create anytype of combinational logic that we want, think AND, OR, NOR, etc… These different types of combinational logic allow 
+LUTs allow us to create any type of combinational logic that we want, think AND, OR, NOR, etc… These different types of combinational logic allow 
 us to perform different operations like add, multiply, subtract, etc… The flip-flops allow us to store critical information about the data in our
 FPGA between clock cycles and let us do sequential operations like store state or implement counters. Block Memory is usually the SRAM that we 
 discussed allows us to configure our LUTs and interconnection resources in the Field.
