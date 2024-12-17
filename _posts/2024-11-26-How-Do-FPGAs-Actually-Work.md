@@ -111,8 +111,8 @@ gates from our LUTs you can create more intricate sequential circuits like count
 ### Interconnection Resources
 
 We started this post by looking at the diagram in Figure 1 and getting a fundamental understanding of the elements in our Logic Blocks.
-But we still have the other crucial part of our basic FPGA, the interconnection resources. These interconnects in our FPGAs are essentially built   
-using many different wires and switch boxes that run between all of the logic blocks in our FPGA. If we want to connect any two specific logic blocks,  
+But we still have the other crucial part of our basic FPGA, the interconnection resources. These interconnects in our FPGAs are essentially built
+using many different wires and switch boxes that run between all of the logic blocks in our FPGA. If we want to connect any two specific logic blocks,
 for example to implement a 2 bit adder, we tell the switch block to close the connection between those two LBs that we want to chain together. 
 
 ![Alt text](/images/FPGA/Figure9.png)  
