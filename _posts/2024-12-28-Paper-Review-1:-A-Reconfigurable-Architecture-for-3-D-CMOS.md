@@ -1,4 +1,4 @@
-## 3-D nFPGA: A Reconfigurable Architecture for 3-D CMOS/Nanomaterial Hybrid Digital Circuits (2007) [[1]](https://ieeexplore.ieee.org/document/4383239)
+## Paper Review: A Reconfigurable Architecture for 3-D CMOS/Nanomaterial Hybrid Digital Circuits (2007)
 
 I was exploring the most cited FPGA papers by patent citations, and came across this interesting paper that covered an area I had very little knowledge of, materials science. I wanted to understand the technology being proposed in this paper and its underlying fundamentals better so I decided to make a post about it here. I will attempt to summarize the paper and technology being proposed and provide some naive commentary on why I think it was so impactful. To perform this search I used [IEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?action=search&matchBoolean=true&queryText=(%22All%20Metadata%22:FPGA)&highlight=true&returnType=SEARCH&matchPubs=true&sortType=patent-citations&returnFacets=ALL) and searched for ‘FPGA’ and used Sort By -> Most Cited By Patents.
 
