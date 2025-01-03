@@ -1,4 +1,4 @@
-## How do FPGAs Actually Work?
+## How do FPGAs actually work?
 
 I have read many articles and watched a lot of Youtube videos explaining the basics of FPGAs and how to write software for them. 
 They usually start by explaining LUTs and D-Flip Flops and maybe even Block Memory. They then might go into the parallel nature 
