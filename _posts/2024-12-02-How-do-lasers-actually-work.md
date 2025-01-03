@@ -1,6 +1,6 @@
 ## How do lasers actually work?
  
-As an Embedded Software Engineer who writes code that controls lasers/directed energy systems there were many things about them that I didnt know when I started.
+As an Embedded Software Engineer who writes code that controls lasers/directed energy systems there were many things that I didnt know when I started.
 You might know that lasers are made by running current through a laser diode and that laser diode creates the laser beam. But there is a lot more information about a laser that can be used to understand and control them. How do we actually control lasers? What is laser polarization? What is the phase of a laser? How do we convert a laser from the optical domain to the signal domain and plot a laser on an Oscilloscope? Below I will attempt to answer all of these questions and give 
 you a better understanding of a really cool technology.
 
