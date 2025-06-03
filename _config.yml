@@ -25,7 +25,7 @@ author:
   avatar           : "./images/pic_of_me.jpg"
   name             : "Jovan Koledin"
   pronouns         : # example: "she/her"  
-  bio              : "Interested in Computing!"
+  bio              : "Currently developing hardware accelerator compilers for the PNCEL lab at UW."
   location         : "Seattle, WA"
   employer         : "University of Washington"
   uri              : # URL
