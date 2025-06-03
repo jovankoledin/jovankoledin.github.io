@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic_of_me.jpg"
+  avatar           : "./pic_of_me.jpg"
   name             : "Jovan Koledin"
   pronouns         : # example: "she/her"  
   bio              : "Interested in Computing!"
@@ -60,7 +60,7 @@ author:
   #keybase          : # Username
   #instagram        : # Username
   #lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/jovan-koledin/
+  linkedin         : jovan-koledin
   #mastodon         : # URL
   #medium           : # URL
   #pinterest        : # Username
