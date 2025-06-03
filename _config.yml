@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "splash"
 title                    : "Jovan's Portfolio"
 title_separator          : "-"
 name                     : &name "Jovan Koledin"
