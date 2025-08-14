@@ -10,11 +10,6 @@
             {% assign image_path = "/" | append: folder_path | append: item['main-image'] %}
             <img src="{{ image_path }}" alt="{{ item.title }} image">
             <h3 class="project-title">{{ item.title }}</h3>
-            <div class="project-skills">
-                {% for skill in item.skills %}
-                    <span class="skill">{{ skill }}</span>
-                {% endfor %}
-            </div>
             <p class="project-description">{{ item.description }}</p>
             <button class="read-more">Read more →</button>
         </div>
