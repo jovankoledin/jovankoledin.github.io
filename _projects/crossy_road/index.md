@@ -17,3 +17,5 @@ main-image: /gds.png
 Used SystemVerilog and the SkyWater 130nm toolchain and Yosys/OpenLane for GDS generation. I developed the core game logic and optimized the size from 5000+ logic elements to ~1,150.  
 Tapeout and results will finish in mid 2026.
 Matt Chen and Ryan Leahy did it with me
+
+[Repo link](https://github.com/mchen26/tt10-vga-crossyroad)
