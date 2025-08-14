@@ -15,7 +15,7 @@ Huge kudos to [Praktronics](https://github.com/praktronics) for figuring out the
 
 
 ### To Run Example which turns on 1st LED Green:
-Ensure hardware connections are made as shown in Connections photo below:
+Ensure hardware connections are made as shown in Connections photo below:  
 {% include image-gallery.html images="connections.jpg" height="500" %}  
 
 ```bash
