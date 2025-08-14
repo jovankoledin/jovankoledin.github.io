@@ -62,8 +62,7 @@ skills:
     - Soldering
     - Schematic Design (KiCad, Eagle, and Cadence OrCAD)
     - Microntroller Programming (ESP32 & Arm Cortex-M4)
-
-  - category: Build Automation
+  - category: Build Automation & Testing
     tools:
     - Make
     - CMake
@@ -71,6 +70,7 @@ skills:
     - PyTest
     - YAML
     - Docker
+    
 #  - category: PCB Design
 #    tools:
 #    - Altium Designer
