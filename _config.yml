@@ -31,8 +31,8 @@ resume-url: ./assets/resume/resume_fw.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/jovan-koledin/    # https://www.linkedin.com/in/{your url slug} 
-  github: https://github.com/jovankoledin    # https://github.com/{your url slug} 
+  linkedin: jovan-koledin/    # https://www.linkedin.com/in/{your url slug} 
+  github: jovankoledin    # https://github.com/{your url slug} 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
