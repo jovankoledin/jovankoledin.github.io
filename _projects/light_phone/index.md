@@ -13,10 +13,10 @@ A LED display that moves a lava lamp like pattern across a screen and flashes re
 ## Quick Demo 
 
 #### Default State
-{% include image-gallery.html images="default_vid.gif" height="400" %}
+{% include image-gallery.html images="default_vid.gif" height="500" %}  
 
 #### Important Notification State
-{% include image-gallery.html images="notification_vid.gif" height="400" %}
+{% include image-gallery.html images="notification_vid.gif" height="500" %}  
 
 [See this for a full demo](https://github.com/jovankoledin/light_phone/blob/main/visuals/demo_higher_res.MP4)
 
@@ -24,7 +24,7 @@ A LED display that moves a lava lamp like pattern across a screen and flashes re
 Checking my phone takes me out of the flow state when I am trying to be productive at my computer.
 I put my phone out of sight when I want to stay focused, but in the back of my mind I am concerned I might miss an important notification.
 The Light Phone acts as a passive background display I can put in my FOV to put my mind at ease.
-By default it resembles a relaxing lava lamp, but whenever I get an important notification (i.e. text from mom) it flashes red.
+By default it resembles a relaxing lava lamp, but whenever I get an important notification (i.e. text from mom) it flashes red.  
 
 ## Hardware Up Close
 {% include image-gallery.html images="front.jpg" height="400" %}
@@ -32,7 +32,7 @@ By default it resembles a relaxing lava lamp, but whenever I get an important no
 {% include image-gallery.html images="leds.jpg" height="400" %}
 {% include image-gallery.html images="inside.jpg" height="400" %}
 ### BLE Connection
-{% include image-gallery.html images="ble_bigger.png" height="400" %}
+{% include image-gallery.html images="ble_bigger.png" height="400" %}  
 
 ## How it Works
 Inside is just an ESP32 hooked up to a 16x16 led display.
