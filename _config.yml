@@ -32,8 +32,8 @@ resume-url: ./assets/resume/resume_fw.pdf
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: https://www.linkedin.com/in/jovan-koledin/    # https://www.linkedin.com/in/{your url slug} 
-  github: jovankoledin    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  github: https://github.com/jovankoledin    # https://github.com/{your url slug} 
+  stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -75,7 +75,7 @@ skills:
     - PLM (PTC Windchill / Arena)   
   - category: PCB Design
     tools:
-   - Altium Designer
+    - Altium Designer
     - Altium
     - Eagle 
     - KiCad
