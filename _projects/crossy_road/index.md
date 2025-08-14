@@ -7,7 +7,7 @@ main-image: /gds.png
 ---
 
 ---
-## Running on FPGA
+## Running on a FPGA
 {% include image-gallery.html images="crossy_road.gif" height="500" %}
 
 ## Chip
