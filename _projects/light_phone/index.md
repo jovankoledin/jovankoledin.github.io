@@ -13,10 +13,10 @@ A LED display that moves a lava lamp like pattern across a screen and flashes re
 ## Quick Demo 
 
 #### Default State
-![Alt text](./visuals/default_vid.gif)
+![Alt text](./default_vid.gif)
 
 #### Important Notification State
-![Alt text](./visuals/notification_vid.gif)
+![Alt text](./notification_vid.gif)
 
 [See this for a full demo](https://github.com/jovankoledin/light_phone/blob/main/visuals/demo_higher_res.MP4)
 
@@ -27,12 +27,12 @@ The Light Phone acts as a passive background display I can put in my FOV to put 
 By default it resembles a relaxing lava lamp, but whenever I get an important notification (i.e. text from mom) it flashes red.
 
 ## Hardware Up Close
-![Alt text](./visuals/front.jpg) 
-![Alt text](./visuals/side.jpg) 
-![Alt text](./visuals/leds.jpg) 
-![Alt text](./visuals/inside.jpg) 
+![Alt text](./front.jpg) 
+![Alt text](./side.jpg) 
+![Alt text](./leds.jpg) 
+![Alt text](./inside.jpg) 
 ### BLE Connection
-![Alt text](./visuals/ble_bigger.png)
+![Alt text](./ble_bigger.png)
 
 ## How it Works
 Inside is just an ESP32 hooked up to a 16x16 led display.
