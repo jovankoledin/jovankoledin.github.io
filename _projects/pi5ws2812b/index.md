@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pi5WS2812b
-description:  The Raspberry Pi 5 added a separate chip for handling its peripherals (RP1) which none of the previous Pi models had. Pre-existing Open Source packages that controlled WS2812b LEDs are now obsolete. This repo enables control of the popular WS2812b LEDs using the SPI MOSI pin on your Pi5.
+description: The Raspberry Pi 5 added a separate chip for handling its peripherals (RP1) which none of the previous Pi models had. Pre-existing Open Source packages that controlled WS2812b LEDs are now obsolete. This repo enables control of the popular WS2812b LEDs using the SPI MOSI pin on your Pi5.
 
 main-image: /example.jpg
 ---
