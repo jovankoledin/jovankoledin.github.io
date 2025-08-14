@@ -13,7 +13,7 @@ A LED display that moves a lava lamp like pattern across a screen and flashes re
 ## Quick Demo 
 
 #### Default State
-![Alt text](./default_vid.gif)
+{% include default_vid images="default_vid.gif" height="400" %} 
 
 #### Important Notification State
 ![Alt text](./notification_vid.gif)
