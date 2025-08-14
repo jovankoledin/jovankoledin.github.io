@@ -15,7 +15,9 @@ title: Jovan Koledin's Portfolio # This is what shows up in the tab of the brows
 name: Jovan Koledin
 headline: Hi! Feel free to check out work I have done
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I like to work on lots of stuff, but mainly focus on software and firmware/embedded where I can interact with some hardware.
+  I like to work on lots of stuff, but mainly on firmware, there is just something about seeing your software do something in the physical world...   
+  My main hobbies are playing sports, especially basketball and golf.   
+  I was born and raised in Seattle so I of course like hiking/skiing and most things outdoors.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/pfp.jpg
