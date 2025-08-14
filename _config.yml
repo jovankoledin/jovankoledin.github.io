@@ -66,9 +66,9 @@ skills:
     tools:
     - Make
     - CMake
-    - Shell scripting
-    - PyTest
+    - Linux Bash scripting
     - YAML
+    - PyTest
     - Docker
     
 #  - category: PCB Design
