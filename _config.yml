@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+e# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -13,7 +13,7 @@ title: Jovan Koledin's Portfolio # This is what shows up in the tab of the brows
 
 # Hero Section
 name: Jovan Koledin
-headline: Check out work I have done her
+headline: Hi! Feel free to check out work I have done
 description: >- # dont remove this line. this will ignore all new lines until the next section
   I like to work on lots of stuff, but mainly focus on software and firmware/embedded where I can interact with some hardware.
 
