@@ -47,3 +47,4 @@ the Light Phone goes back to its default Lava Lamp display.
 2. 16x16 WS2812b LED Matrix ($15)
 3. [3D printed enclosure](https://www.printables.com/model/705945-16x16-led-matrix-frame-with-diffuser-grid/files) (~free)
 
+[Repo link](https://github.com/jovankoledin/light_phone)
