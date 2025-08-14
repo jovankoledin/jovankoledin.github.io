@@ -63,11 +63,11 @@ external-links:    # input only your own url slug. The icons with missing entrie
 #    - SLS
 #    - DMLS
 #    - PolyJet Printing
-3    - Vacuum Casting
+#    - Vacuum Casting
 #    - Laser Cutting
 #    - Water Jet Cutting
 #    - Arduino / Raspberry Pi
-3    - Breadboarding for circuit testing
+#    - Breadboarding for circuit testing
 #  - category: Design Standards / Practices
 #    tools:
 #    - GD&T ASME Y14
