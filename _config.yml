@@ -61,16 +61,16 @@ skills:
     - Multimeters
     - Soldering
     - Schematic Design (KiCad, Eagle, and Cadence OrCAD)
-    - Microntroller programming (ESP32 & Arm Cortex-M4)
-#    - Laser Cutting
-#    - Water Jet Cutting
-#    - Arduino / Raspberry Pi
-#    - Breadboarding for circuit testing
-#  - category: Design Standards / Practices
-#    tools:
-#    - GD&T ASME Y14
-#    - ISO fits and tolerances
-#    - PLM (PTC Windchill / Arena)   
+    - Microntroller Programming (ESP32 & Arm Cortex-M4)
+
+  - category: Build Automation
+    tools:
+    - Make
+    - CMake
+    - Shell scripting
+    - PyTest
+    - YAML
+    - Docker
 #  - category: PCB Design
 #    tools:
 #    - Altium Designer
