@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Light Phone](https://github.com/jovankoledin/light_phone)
+title: Light Phone
 description:  Checking my phone takes me out of the flow state when I am trying to be productive at my computer. I put my phone out of sight when I want to stay focused, but in the back of my mind I am concerned I might miss an important notification. The Light Phone acts as a passive background display I can put in my FOV to put my mind at ease. By default it resembles a relaxing lava lamp, but whenever I get an important notification (i.e. text from mom) it flashes red.
 
 main-image: /default_vid.gif
