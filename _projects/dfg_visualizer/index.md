@@ -3,7 +3,7 @@ layout: post
 title: Data Flow Graph Visualizer
 description:  While building a compiler for a graph based hardware accelearator I realized I had no way to test the execution graphs I was generating. I built this tool to simulate memory interactions and observe the execution results each cycle for a data flow graph. 
 
-main-image: /default_vid.gif
+main-image: /example.png
 ---
 
 ---
