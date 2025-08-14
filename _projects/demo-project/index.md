@@ -1,18 +1,9 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
-skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+title: [Light Phone](https://github.com/jovankoledin/light_phone)
+description:  Checking my phone takes me out of the flow state when I am trying to be productive at my computer. I put my phone out of sight when I want to stay focused, but in the back of my mind I am concerned I might miss an important notification. The Light Phone acts as a passive background display I can put in my FOV to put my mind at ease. By default it resembles a relaxing lava lamp, but whenever I get an important notification (i.e. text from mom) it flashes red.
 
-main-image: /project2.jpg
+main-image: /default_vid.gif
 ---
 
 ---
