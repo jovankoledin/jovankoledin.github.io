@@ -15,11 +15,11 @@ title: Jovan Koledin's Portfolio # This is what shows up in the tab of the brows
 name: Jovan Koledin
 headline: Jovially justifying jubilation judiciously, Knowingly kneading knowledge keenly
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I like to work on lots of stuff, but mainly on software and firmware.   
+  "I like to work on lots of stuff, but mainly on software and firmware.   
   Most projects center around trying to fix problems that I have, and I love working on new things that are challenging.       
   My main hobbies are playing sports, especially basketball and golf.   
   I was born and raised in Seattle, so I also of course like hiking/skiing and most things outdoors.\n
-  Fun fact: I was voted happiest kid at my middle school
+  Fun fact: I was voted happiest kid at my middle school"
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/pfp.jpg
