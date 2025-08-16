@@ -29,8 +29,8 @@ A LED display that moves a lava lamp like pattern across a screen and flashes re
 {% include image-gallery.html images="ble_bigger.png" height="400" %}  
 
 ## How it Works
-Inside is just an ESP32 hooked up to a 16x16 led display.
-The ESP32 runs two RTOS tasks (update LED display, and run Bluetooth ops). The Bluetooth ops took the most time to get working out of anything on this project.
+Inside is an ESP32 hooked up to a 16x16 WS2812b led display.
+The C++ firmware in the ESP32 runs two RTOS tasks (update LED display, and run Bluetooth ops). The Bluetooth ops took the most time to get working out of anything on this project.
 It is a Bluetooth Low Energy (BLE) protocol, specifically a Apple Notification Center Service (ANCS) Central & Peripheral device that can connect to your iPhone.
 The BLE system before it connects acts as a Central device and searches for a ANCS Peripheral device (i.e. your iPhone) to connect to. Once the two devices find eachother the Light Phone subcribes to your iPhones ANCS service and connects. The BLE system then switches to being a Peripheral device and your iPhone becomes the Central device, the iPhone then streams notification data packets to your Light Phone.
 When your Light Phone gets a notification data packet it parses it and checks to see if any of the important contacts are referenced in the notification. If an important contact is referenced,
