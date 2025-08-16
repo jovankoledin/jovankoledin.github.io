@@ -57,7 +57,7 @@ skills:
     - FreeRTOS
   - category: Hardware
     tools:
-    - Oscilliscopes
+    - Oscilloscope
     - Logic Analyzers (Saleae)
     - Multimeters
     - Soldering
