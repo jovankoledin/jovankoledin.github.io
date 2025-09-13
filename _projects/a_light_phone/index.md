@@ -26,7 +26,7 @@ A LED display that moves a lava lamp like pattern across a screen and flashes re
 {% include image-gallery.html images="leds.jpg" height="400" %}
 {% include image-gallery.html images="inside.jpg" height="400" %}
 ### BLE Connection
-{% include image-gallery.html images="ble_bigger.png" height="400" %}  
+{% include image-gallery.html images="ble_bigger.png" height="400" %}    
 
 ## How it Works
 Inside is an ESP32 hooked up to a 16x16 WS2812b led display.
