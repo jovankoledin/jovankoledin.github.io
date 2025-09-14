@@ -71,6 +71,7 @@ skills:
     - YAML
     - PyTest
     - Docker
+    - SCons
     
 #  - category: PCB Design
 #    tools:
