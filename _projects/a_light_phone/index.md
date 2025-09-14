@@ -35,7 +35,7 @@ It is a Bluetooth Low Energy (BLE) protocol, specifically a Apple Notification C
 The BLE system before it connects acts as a Central device and searches for a ANCS Peripheral device (i.e. your iPhone) to connect to. Once the two devices find eachother the Light Phone subcribes to your iPhones ANCS service and connects. The BLE system then switches to being a Peripheral device and your iPhone becomes the Central device, the iPhone then streams notification data packets to your Light Phone.
 When your Light Phone gets a notification data packet it parses it and checks to see if any of the important contacts are referenced in the notification. If an important contact is referenced,
 the BLE task sets a notification received flag which triggers a flashing red pattern to pulse on the LED display for 30 sec. Once the red pattern is done flashing,
-the Light Phone goes back to its default Lava Lamp display.
+the Light Phone goes back to its default Lava Lamp display. I used PlatformIO on VsCode with the espressif32 platform and the Arduino framework, plus just a basic esp32dev board.
 
 ## Additional Feautures
 - Implemented Wifi OTA update ability so I didnt have to plug my computer into my ESP32 to upload new firmware.
