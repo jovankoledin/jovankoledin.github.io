@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Light Phone
-description:  Checking my phone takes me out of the flow state when I am trying to be productive at my computer. I put my phone out of sight when I want to stay focused, but in the back of my mind I am concerned I might miss an important notification. The Light Phone fixes these issues.
+description: Flow state enabler 
 
 main-image: /default_vid.gif
 ---
@@ -9,6 +9,7 @@ main-image: /default_vid.gif
 ---
 # Light Phone
 A LED display that moves a lava lamp like pattern across a screen and flashes red when you get a important iPhone notification.
+Checking my phone takes me out of the flow state when I am trying to be productive at my computer. I put my phone out of sight when I want to stay focused, but in the back of my mind I am concerned I might miss an important notification. The Light Phone fixes these issues.
 
 ## Quick Demo 
 

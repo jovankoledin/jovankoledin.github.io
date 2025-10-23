@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Pi5WS2812b
-description: The Raspberry Pi 5 added a separate chip for handling its peripherals (RP1) which none of the previous Pi models had. Pre-existing Open Source packages that controlled WS2812b LEDs are now obsolete. This repo enables control of the popular WS2812b LEDs using the SPI MOSI pin on your Pi5.
+description: WS2812b LED driver for the Raspberry Pi 5
 
 main-image: /example.jpg
 ---
 
 ---
 ## Control WS2812B LED Matrix using your Raspberry Pi 5
-This is a C Driver for the new Raspberry Pi 5 RP1 Peripheral chip that can be used to control your WS2812b LEDs.  
+The Raspberry Pi 5 added a separate chip for handling its peripherals (RP1) which none of the previous Pi models had. Pre-existing Open Source packages that controlled WS2812b LEDs are now obsolete. This is a C Driver for the new Raspberry Pi 5 RP1 Peripheral chip that can be used to control your WS2812b LEDs.  
 Run from your Linux based Raspberry Pi 5 terminal
 
 Huge kudos to [Praktronics](https://github.com/praktronics) for figuring out the SPI RP1 register addresses
