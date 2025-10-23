@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verilog Visualizer
+title: System Verilog Visualizer (SVV)
 description: Xilinx Vivado block level view withought needing Xilinx Vivado
 
 
@@ -8,7 +8,7 @@ main-image: /serdes.png
 ---
 
 ---
-## System Verilog Visualizer (SVV)
+### SVV
 Reads your SystemVerilog or Verilog (SV/V) code and shows you a visualization of its module heirarchies.  
 Inspired by the block level view that Xilinx Vivado automatically gives you of your HDL code.  
 With SVV you don't need to install a 3GB+ software package and deal with licensing to examine your large SV/V projects from a high level.
