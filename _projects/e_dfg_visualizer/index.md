@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Flow Graph Visualizer
-description:  Simulate memory interactions and observe the execution results each cycle for a data flow graph for a given C++ kernl. 
+description:  Simulate memory interactions and observe the execution results of a data flow graph for a given C++ kernel. 
 
 main-image: /example.png
 ---
